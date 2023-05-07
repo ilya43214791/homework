@@ -5,17 +5,20 @@ password_num_word = password.isalnum()
 replay_enter_password = input("Repley please your password(word and numer) >>>")
 replay_password_num = replay_enter_password.isalnum()
 
-if password_num_word == True and replay_password_num == password_num_word:
+if (loggin_word == True) and (password_num_word == True) and (replay_enter_password == password):
     print("You enter system")
 else:
     print("Wrong login or password")
 
 unlogin = "You are broken because I wanted it so, repley write please your password and loggin!!!"
 print(unlogin)
-repley_loggin = input("Loggin:").isalpha()
-repley_password = input("Password:").isalnum()
+repley_loggin = input("Loggin:")
+repley_password = input("Password:")
+repley_loggin_corect = repley_loggin.isalpha()
+repley_password_corect = repley_password.isalnum()
+total_result = (repley_loggin_corect == True) and (repley_password_corect == True) and (repley_loggin == loggin) and (repley_password == password)
 
-if repley_loggin == loggin_word and repley_password == replay_password_num:
+if total_result == True:
     print("You enter system")
 else:
     print("Wrong login or password")
