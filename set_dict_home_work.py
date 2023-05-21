@@ -10,3 +10,13 @@ if city_repid_items == True:
     print("You alredy visit thisis city:" + str(city_repid_items_origin))
 else:
     print("new cities are open to you")
+
+    petrov_tip = ttotal_dict.get('Іван Петров')
+    evgenii_tip = ttotal_dict.get('Женя Курич')
+    masha_tip = ttotal_dict.get('Маша Кера')
+    ilya_tip = ttotal_dict.get("Ілля Заграєнко")
+    petrov_number = petrov_tip.get('Середній бал')
+    evgenii_number = evgenii_tip.get('Середній бал')
+    masha_number = masha_tip.get('Середній бал')
+    ilya_number = ilya_tip.get('Середній бал')
+    unit_students_tip =
