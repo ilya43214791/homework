@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6848723-b639-46a8-bec0-6b81190ee0c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_function_receives_some.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_homework_ function_receives_some.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_work_func_check_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_func_check_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_home_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_dict_home work.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_dict_get_from_internet.py" beforeDir="false" />
+    <list default="true" id="84fc354b-5f0c-4c44-b1a4-b31736003c6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/func_lis_coplereshion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_func_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_function_receives_some.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_function_receives_some.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_homework_ function_receives_some.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_homework_ function_receives_some.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_work_func_check_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_work_func_check_problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_func_check_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_func_check_problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,134 +32,77 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2PQdBhgXMIHFBvHcRxl6jzE8ADr" />
+  <component name="ProjectId" id="2QTjgm1zX08EQepUygpihuPWXAP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\illua\OneDrive\Рабочий стол\homework" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_work_func_check_problem.test_import_mile_in_km">
-    <configuration name="Python tests for test_homework_ function_receives_some.test_function_receives_value" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.work_func_generator">
+    <configuration name="func_lis_coplereshion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_homework_ function_receives_some.test_function_receives_value&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func_lis_coplereshion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_work_func_check_problem.test_import_mile_in__int" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="work_func_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_work_func_check_problem.test_import_mile_in__int&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_work_func_check_problem.test_import_mile_in_km" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_work_func_check_problem.test_import_mile_in_km&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_work_func_check_problem.test_import_mile_in_negativ_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_work_func_check_problem.test_import_mile_in_negativ_zero&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_work_func_check_problem.test_import_mile_in_str" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_work_func_check_problem.test_import_mile_in_str&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_func_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_work_func_check_problem.test_import_mile_in_km" />
-        <item itemvalue="Python tests.Python tests for test_work_func_check_problem.test_import_mile_in_negativ_zero" />
-        <item itemvalue="Python tests.Python tests for test_work_func_check_problem.test_import_mile_in__int" />
-        <item itemvalue="Python tests.Python tests for test_work_func_check_problem.test_import_mile_in_str" />
-        <item itemvalue="Python tests.Python tests for test_homework_ function_receives_some.test_function_receives_value" />
+        <item itemvalue="Python.work_func_generator" />
+        <item itemvalue="Python.func_lis_coplereshion" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6848723-b639-46a8-bec0-6b81190ee0c9" name="Changes" comment="" />
-      <created>1683393106859</created>
+      <changelist id="84fc354b-5f0c-4c44-b1a4-b31736003c6d" name="Changes" comment="" />
+      <created>1685384579648</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683393106859</updated>
+      <updated>1685384579648</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="data" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
