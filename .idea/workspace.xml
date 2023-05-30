@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84fc354b-5f0c-4c44-b1a4-b31736003c6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/func_lis_coplereshion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_func_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_function_receives_some.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_function_receives_some.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_homework_ function_receives_some.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_homework_ function_receives_some.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_work_func_check_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_work_func_check_problem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_func_check_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_func_check_problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func_lis_coplereshion.py" beforeDir="false" afterPath="$PROJECT_DIR$/func_lis_coplereshion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.work_func_generator">
+  <component name="RunManager" selected="Python.func_lis_coplereshion">
     <configuration name="func_lis_coplereshion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.work_func_generator" />
         <item itemvalue="Python.func_lis_coplereshion" />
+        <item itemvalue="Python.work_func_generator" />
       </list>
     </recent_temporary>
   </component>
